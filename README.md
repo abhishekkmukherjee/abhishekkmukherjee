@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif)]
+
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Mukherjee</h1>
