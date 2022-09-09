@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Mukherjee</h1>
-<h3 align="center">I am a front end web developer, proficient in HTML and CSS and having a good knowledge of Javascript and Bootstrap.Currently learning Reactjs. Other than these I am interested in Startups, Android,AI,ML and Blockchain Technology. And I occasionaly contribute in Open source Projects.</h3>
+<h3 align="center">HELLO,I AM ABHISHEK MUKHERJEE, FROM INDIA. I AM A FULL STACK DEVELOPER AND DESIGNER , MY SKILLS ARE HTML, CSS, JS, BOOTSTRAP REACT, NODE, MONGO, GIT, CANVA AND FIGMA . I AM ALSO A DESIGNER KNOWS WEB DESIGNING, LOGO DESIGNING, AND SOCIAL MEDIA POST DESIGNING. OTHER THAN THESE I HAVE INTEREST IN APP DEVELOPMENT, AI/ML, DEVOPS AND BLOCKCHAIN. I ALSO OCCASIONALY CONTRIBUTE TO OPEN SOURCE PROJECTS .</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> 
 
