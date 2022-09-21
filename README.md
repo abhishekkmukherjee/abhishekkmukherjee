@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://abmukherjee.hashnode.dev/](https://abmukherjee.hashnode.dev/)
 
-- 💬 Ask me about **Html,Css, Js**
+- 💬 Ask me about **Html,Css, Js,Node,Git,Mongo,React,Bootstrap**
 
 - 📫 How to reach me **mukherjeeabhishek207@gmail.com**
 
