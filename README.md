@@ -1,12 +1,7 @@
-### Welcome👋
+
+<h3 align="center">Hey there, I am Abhishek Mukherjee, a software developer currently working at a BSE-listed fintech company in Ranchi. I possess strong technical expertise and analytical abilities.</h3>
 
 
-
-
-<h1 align="center">Hi 👋, I'm Abhishek Mukherjee</h1>
-<h3 align="center">HELLO,I AM ABHISHEK MUKHERJEE, FROM INDIA. I AM A FULL STACK DEVELOPER AND DESIGNER , MY SKILLS ARE HTML, CSS, JS, BOOTSTRAP REACT, NODE, MONGO, GIT, CANVA AND FIGMA . I AM ALSO A DESIGNER KNOWS WEB DESIGNING, LOGO DESIGNING, AND SOCIAL MEDIA POST DESIGNING. OTHER THAN THESE I HAVE INTEREST IN APP DEVELOPMENT, AI/ML, DEVOPS AND BLOCKCHAIN. I ALSO OCCASIONALY CONTRIBUTE TO OPEN SOURCE PROJECTS .</h3>
-
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkmukherjee" /> </p>
@@ -15,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/abmukherjee" target="blank"><img src="https://img.shields.io/twitter/follow/abmukherjee?logo=twitter&style=for-the-badge" alt="abmukherjee" /></a> </p>
 
-- 🔭 I’m currently working on **Samarpan**
+- 🔭 I’m currently working on **Samarpan Labs**
 
-- 🌱 I’m currently learning **React and backend**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://abhishekmukherjeeportfolio.netlify.app/](https://abhishekmukherjeeportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://abmukherjee.hashnode.dev/](https://abmukherjee.hashnode.dev/)
 
-- 💬 Ask me about **Html,Css, Js,Node,Git,Mongo,React,Bootstrap**
+- 💬 Ask me about **Full stack and Gen AI**
 
 - 📫 How to reach me **mukherjeeabhishek207@gmail.com**
 
