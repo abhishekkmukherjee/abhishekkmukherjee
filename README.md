@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 👨‍💻 All of my projects are available at [https://abhishekmukherjeeportfolio.netlify.app/](https://abhishekmukherjeeportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abhishek-mukherjee.netlify.app/](https://abhishek-mukherjee.netlify.app/)
 
 - 📝 I regularly write articles on [https://abmukherjee.hashnode.dev/](https://abmukherjee.hashnode.dev/)
 
