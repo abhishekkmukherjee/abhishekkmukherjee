@@ -1,5 +1,7 @@
 
-<h3 align="center">Hey there, I am Abhishek Mukherjee, a software developer currently working at a BSE-listed fintech company in Ranchi. I possess strong technical expertise and analytical abilities.</h3>
+<h3 align="center">Hey there, I am Abhishek Mukherjee, a Dynamic full-stack developer with 2+ years of experience building scalable web applications and
+driving organic growth through SEO. Currently working at a BSE-listed fintech company, delivering
+high-performance financial platforms and digital solutions.</h3>
 
 
 
