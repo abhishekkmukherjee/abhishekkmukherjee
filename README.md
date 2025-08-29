@@ -12,9 +12,7 @@ high-performance financial platforms and digital solutions.</h3>
 
 <p align="left"> <a href="https://twitter.com/abmukherjee" target="blank"><img src="https://img.shields.io/twitter/follow/abmukherjee?logo=twitter&style=for-the-badge" alt="abmukherjee" /></a> </p>
 
--  I’m currently working on **Samarpan Labs**
-
--  I’m currently learning **Gen AI**
+-  I’m currently working on **Crackbase**
 
 -  All of my projects are available at [https://abhishek-mukherjee.netlify.app/](https://abhishek-mukherjee.netlify.app/)
 
