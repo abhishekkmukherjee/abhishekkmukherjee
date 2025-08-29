@@ -26,4 +26,4 @@ high-performance financial platforms and digital solutions.</h3>
 <p align="left">
 <a href="https://twitter.com/abmukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abmukherjee" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkmukherjee&" alt="abhishekkmukherjee" /></p>
+
